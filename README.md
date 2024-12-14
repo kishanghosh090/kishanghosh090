@@ -26,7 +26,7 @@ I'm a first-semester Computer Science student with a passion for programming and
 - Web development using **Node.js**, **Express**, and **MongoDB**.
 
 ## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishan-rana-ghosh) or email me at [kishanranaghosh@gmail.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishan-rana-ghosh-8b95832b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or email me at [kishanranaghosh@gmail.com].
 
 ---
 
