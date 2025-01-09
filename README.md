@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Kishan Rana Ghosh!
 
 I'm a first-semester Computer Science student with a passion for programming and technology. I'm constantly learning new things and love exploring different languages and frameworks. Below, you'll find a bit more about my skills, what I'm working on, and some of the technologies I enjoy working with.
 
