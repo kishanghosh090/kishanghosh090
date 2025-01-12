@@ -9,6 +9,7 @@ I'm a first-semester Computer Science student with a passion for programming and
 
 ## 💻 Skills & Technologies
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **react**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
 - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) **C**
 - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) **C++**
