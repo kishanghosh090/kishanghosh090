@@ -8,10 +8,8 @@ I'm a first-semester Computer Science student with a passion for programming and
 - Expanding my knowledge of **Node.js** and **Express** for backend development.
 
 ## 💻 Skills & Technologies
-- ![React Native]<p align="center">
-  <img width="100" src="https://reactnative.dev/img/header_logo.svg" width="100" alt="React Native Logo"/>
-</p>
-- ![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)
+- ![React Native](https://img.shields.io/badge/Framework-React_Native-61DAFB?logo=react&logoColor=white) **React Native**
+- ![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white) **Java**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">**react**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
