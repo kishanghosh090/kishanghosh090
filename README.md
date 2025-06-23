@@ -4,7 +4,7 @@ I'm a first-semester Computer Science student with a passion for programming and
 
 ## 🔭 Current Focus
 - Learning more about **Data Structures** and **Algorithms**.
-- Building projects using **JavaScript**, **Python**, and **java**.
+- Building projects using **JavaScript**, **Python**, and **Kotlin**.
 - Expanding my knowledge of **Node.js** and **Express** for backend development.
 
 ## 💻 Skills & Technologies
