@@ -1,37 +1,111 @@
-# Hi there 👋, I'm Kishan Rana Ghosh!
+# 👋 Hi, I'm Kishan Rana Ghosh  
+**Computer Science Student | Full-Stack Developer | Android Engineer | Backend Systems Enthusiast**
 
-I'm a first-semester Computer Science student with a passion for programming and technology. I'm constantly learning new things and love exploring different languages and frameworks. Below, you'll find a bit more about my skills, what I'm working on, and some of the technologies I enjoy working with.
+I'm a **Computer Science student and full-stack mobile & backend developer** passionate about building **scalable, production-grade applications** and understanding how systems work behind the scenes — from UI rendering to distributed backend architecture.
 
-## 🔭 Current Focus
-- Learning more about **Data Structures** and **Algorithms**.
-- Building projects using **JavaScript**, **Python**, and **Kotlin**.
-- Expanding my knowledge of **Node.js** and **Express** for backend development.
-
-## 💻 Skills & Technologies
-- ![React Native](https://img.shields.io/badge/Framework-React_Native-61DAFB?logo=react&logoColor=white) **React Native**
-- ![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white) **Java**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">**react**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) **C**
-- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) **C++**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js**
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) **Express**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Git**
-
-## 🚀 Projects
-- I'm currently working on several projects, including some small web applications using **Node.js** and **Express**.
-- I have also worked on some basic programs in **C/C++** and **Python** as part of my coursework.
-  
-## 🌱 What I'm Learning
-- **Data Structures & Algorithms** (to improve problem-solving skills).
-- Advanced **JavaScript** features and **Frontend** frameworks (like React).
-- Web development using **Node.js**, **Express**, and **MongoDB**.
-
-## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishan-rana-ghosh-8b95832b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or email me at [kishanranaghosh@gmail.com].
+I focus on writing **clean, maintainable, and real-world-ready code** while continuously improving my **problem-solving, system design, and software engineering skills**.
 
 ---
 
-Thanks for visiting my GitHub profile! I'm always open to collaborating, learning, and sharing ideas. 😊
+## 🔭 Current Focus
+- Designing a **production-grade social media + realtime chat platform**  
+  *(Android/Flutter frontend + TypeScript/Express backend + PostgreSQL + Redis + Socket.IO + FCM)*
+- Mastering **Data Structures & Algorithms (DSA)** for strong problem-solving and interview readiness
+- Deep diving into **Android (Jetpack Compose + Clean Architecture + MVVM + Hilt)**
+- Learning **Backend System Design** (Scalability, Queues, Caching, Realtime Systems, Push Notifications)
+- Exploring **Machine Learning & Data Science** for intelligent feature development
 
+---
+
+## 🧠 Technical Skills
+
+### 🚀 Frontend & Mobile
+- Android (Kotlin, Jetpack Compose, MVVM, Clean Architecture, Hilt)
+- Flutter (Dart)
+- React.js
+- React Native
+
+### 🛠 Backend & Systems
+- Node.js & Express (TypeScript)
+- REST APIs & Selective GraphQL
+- PostgreSQL + Drizzle ORM
+- MongoDB
+- Redis & BullMQ (Queues, Background Jobs)
+- Socket.IO (Realtime Communication)
+- Firebase Cloud Messaging (Push Notifications)
+- Authentication Systems (JWT, Google OAuth, Apple Sign-In)
+
+### 💻 Programming Languages
+- JavaScript / TypeScript
+- Kotlin
+- Java
+- Python
+- C / C++
+
+### 🧰 Tools & DevOps
+- Git & GitHub
+- Linux
+- Postman
+- Docker (Learning)
+- Prisma
+- Vite / Next.js
+
+---
+
+## 🏗 Featured Projects
+
+### 📱 Pathify — Social Media + Realtime Chat Platform  
+**Tech Stack:**  
+Android (Jetpack Compose) | Flutter | TypeScript | Express | PostgreSQL | Redis | Socket.IO | FCM
+
+- Designed **scalable backend architecture** with layered structure (Routes → Controllers → Services → DB → Utils)
+- Implemented **1-to-1 chat system with realtime messaging & offline push notifications**
+- Built **token-based authentication with OAuth support (Google & Apple)**
+- Developed **Clean Architecture Android app using MVVM & Hilt**
+- Integrated **Redis + BullMQ for background jobs and system reliability**
+- Designed **in-app notification system with push delivery via FCM**
+
+---
+
+### 🌐 Full-Stack Web Applications
+- **LeetCode Clone** — Next.js, PostgreSQL, Prisma, Clerk, Judge0 API
+- **Movie Search App** — React + TMDB API
+- **Progressive Web App (PWA)** — Vite + Express + Web Push Notifications
+- **Student-Teacher Notification Portal** — Realtime alerts + backend integration
+
+---
+
+## 📚 What I'm Learning Now
+- **Advanced DSA (C++ & Java)** — Trees, Graphs, Dynamic Programming, System-Level Thinking
+- **Android Internals** — Jetpack Compose rendering, recomposition, UI performance optimization
+- **Backend System Design** — Scaling strategies, caching, queues, distributed systems
+- **Machine Learning & Data Science** — ML, DL, NLP foundations
+
+---
+
+## 🎯 Career Goals
+- Become a **high-impact Software Engineer** specializing in:
+  - Scalable Backend Systems
+  - Mobile App Architecture
+  - Real-Time & Distributed Applications
+- Targeting **top product-based companies and research-oriented tech roles**
+
+---
+
+## 📊 GitHub Stats
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn:** [Kishan Rana Ghosh](https://www.linkedin.com/in/kishan-rana-ghosh-8b95832b9)
+- **Email:** kishanranaghosh@gmail.com
+
+---
+
+> 💡 *I believe in learning by building real systems — not just projects, but products that solve real problems.*
+
+---
+
+⭐ If you like my work, feel free to **star my repositories and connect with me!**
