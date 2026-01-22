@@ -47,8 +47,7 @@ I focus on writing **clean, maintainable, and real-world-ready code** while cont
 - Linux
 - Postman
 - Docker (Learning)
-- Prisma
-- Vite / Next.js
+- Vite 
 
 ---
 
