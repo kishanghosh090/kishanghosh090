@@ -94,7 +94,8 @@ Android (Jetpack Compose) | Flutter | TypeScript | Express | PostgreSQL | Redis 
 
 ## 📊 GitHub Stats
 ![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishanghosh090&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanghosh090&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanghosh090&layout=compact&theme=tokyonight&hide=python,jupyter%20notebook)
 
 ---
 
