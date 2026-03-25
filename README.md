@@ -21,7 +21,7 @@ I focus on writing **clean, maintainable, and real-world-ready code** while cont
 
 ## ⚡ Primary Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,flutter,react,nodejs,express,postgres,redis,mongodb,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,flutter,react,nodejs,express,postgres,redis,mongodb,git,linux,docker,k8s" />
 </p>
 
 ---
